@@ -13,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - 首页界面的实现
 ## 界面效果
 
-![image](https://github.com/Too-Tao/QQ_Music/blob/master/GIF.gif)
+![image](https://github.com/Too-Tao/QQ_Music/blob/master/demo.png)
